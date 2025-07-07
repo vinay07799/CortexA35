@@ -1,1 +1,1 @@
-# CortexA35
+# CortexA35 used in Smart Clocks
